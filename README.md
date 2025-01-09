@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm DinhfVinh</h1>
 
 <h3 align="center">A web pentester from Việt Nam</h3>
-![WorkComputerGIF](https://github.com/user-attachments/assets/1d641905-674c-4f5d-8b08-61df8b46c8df)
-
+<h3![SpinningComputerGIF](https://github.com/user-attachments/assets/092de5d2-482d-4817-b624-6a0765c63755)
+  </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
