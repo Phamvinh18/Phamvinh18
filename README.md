@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm DinhfVinh</h1>
 
 <h3 align="center">A web pentester from Việt Nam</h3>
+![WorkComputerGIF](https://github.com/user-attachments/assets/1d641905-674c-4f5d-8b08-61df8b46c8df)
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinhfvinh](https://github.com/Phamvinh18)" alt="dinhfvinh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/dinhf vinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinhf vinh" height="30" width="40" /></a>
+<a href="https://www.facebook.com/virgnh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinhf vinh" height="30" width="40" /></a>
 <a href="https://discord.gg/V18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="V18" height="30" width="40" /></a>
 </p>
 
