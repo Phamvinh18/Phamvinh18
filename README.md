@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm DinhfVinh</h1>
 <h3 align="center">A web pentester from Việt Nam</h3>
-<p align="center" ![SecurityCatalystGIF](https://github.com/user-attachments/assets/90268ea6-6f3e-44a9-b4a3-6a7a8843b9b6)
- </p>
+<p align="center"> <img src ="![SecurityCatalystGIF](https://github.com/user-attachments/assets/90268ea6-6f3e-44a9-b4a3-6a7a8843b9b6)" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamvinh18&label=Profile%20views&color=0e75b6&style=flat" alt="phamvinh18" /> </p>
 
