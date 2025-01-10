@@ -15,7 +15,7 @@
 - 🤝 I am currently working on improving my knowledge and skills in the cybersecurity.
 - 🌱 I am looking for collaboration on projects related to cybersecurity and information security.
 - 💬 can discuss with me about cybersecurity knowledge
-- 📫 You can contact me by email: phamdinhvinhqni123@gmail.com **phamdinhvinhqni123@gmail.com**
+- 📫 You can contact me by email: **phamdinhvinhqni123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
