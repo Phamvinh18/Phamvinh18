@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phamvinh18" alt="phamvinh18" /></a> </p>
 
+## 🤖 About Me
+
 - 🔭 I'm currently studying at FPT University
 - 🤝 I am currently working on improving my knowledge and skills in the cybersecurity.
 - 🌱 I am looking for collaboration on projects related to cybersecurity and information security.
@@ -18,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/virgnh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/virgnh" height="30" width="40" /></a>
+<a href="" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
