@@ -2,7 +2,6 @@
 <h3 align="center">A web pentester from Việt Nam</h3>
 <div align="center">
   <img src="
-    " width="600"
 </div>
 <p align="center"> <img src ="![SecurityCatalystGIF](https://github.com/user-attachments/assets/90268ea6-6f3e-44a9-b4a3-6a7a8843b9b6)" /> </p>
 
