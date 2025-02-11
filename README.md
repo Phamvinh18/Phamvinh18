@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DinhfVinh</h1>
 <h3 align="center">A web pentester from Việt Nam</h3>
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI5OTF0eDRmemh6anFwNTdpNHkwMWR3c2h4d2Jrbnh1enZnNHFrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp" width="600"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjI5OTF0eDRmemh6anFwNTdpNHkwMWR3c2h4d2Jrbnh1enZnNHFrYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp" width="600"
 </div>
 <p align="center"> <img src ="![SecurityCatalystGIF](https://github.com/user-attachments/assets/90268ea6-6f3e-44a9-b4a3-6a7a8843b9b6)" /> </p>
 
